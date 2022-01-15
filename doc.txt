@@ -1,0 +1,13 @@
+ Api to build
+ 1) to see all Student record
+ api: /api/Students
+ 2) to see individual Student record
+ api:/api/student?name=Mohit
+ 3) to see subject wise student enrollment
+ api: /api/student?subject=MCA
+4) to see particular student hobbies
+ // update api
+ 1) to update a particular student record
+ // delete 
+ 1) to delete a particular student record
+ 2) to delete individual subject/hobbies
